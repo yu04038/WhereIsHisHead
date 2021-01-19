@@ -10,7 +10,7 @@ public class elevator_move : MonoBehaviour
     private float timer = 0;
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame

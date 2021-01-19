@@ -14,14 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/LEVEL 1.unity
-    - Assets/Scenes/LEVEL 2.unity
-    - Assets/Scenes/LEVEL 3.unity
-    - Assets/Scenes/LEVEL 4.unity
+    - Assets/Scenes/Main Menu.unity
+    - Assets/scripts/elevator_move.cs
     - 
-    m_Values: 0101010101
-  RevisionSummary: "\uC635\uC158 \uBC84\uD2BC \uB204\uB974\uACE0 ui\uB204\uB97C\uB54C
-    \uC2DC\uC791\uB418\uB294 \uC624\uB958 \uC218\uC815"
+    m_Values: 010101
+  RevisionSummary: "\uC218\uC815"
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
