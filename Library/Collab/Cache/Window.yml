@@ -14,11 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/Main Menu.unity
-    - Assets/scripts/elevator_move.cs
     - 
-    m_Values: 010101
-  RevisionSummary: "\uC218\uC815"
+    m_Values: 01
+  RevisionSummary: revised
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0

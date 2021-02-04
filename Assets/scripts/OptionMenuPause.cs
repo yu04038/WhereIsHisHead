@@ -27,7 +27,7 @@ public class OptionMenuPause : MonoBehaviour
 	        if(IsPointerOverUIObject(Input.mousePosition))
 	        {  
 	            Debug.Log("UI");//클릭 처리
-                Time.timeScale = 0.0f;
+                Time.timeScale = 0f;
 	        }
         }
     }
