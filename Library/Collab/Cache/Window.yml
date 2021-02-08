@@ -14,9 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Scenes/Diary.unity
+    - Assets/Scenes/Level Select.unity
+    - Assets/Scenes/Main Menu.unity
+    - Assets/scripts/Audioscript.cs
+    - Assets/scripts/Audioscript.cs.meta
     - 
-    m_Values: 01
-  RevisionSummary: revised
+    m_Values: 010101010101
+  RevisionSummary: 'added diary button click sound '
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
